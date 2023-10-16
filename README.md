@@ -8,4 +8,3 @@ Receive hints to help you get closer to the target number.
 Keep track of your scores and see if you can outdo your previous performance.
 
 Give it a Try!
-Play "Guess the Number" and see if you can guess the hidden number!
